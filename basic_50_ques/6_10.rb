@@ -35,5 +35,3 @@ elsif (num==0)
 else
   puts "negative number"
 end
-
-# ==========

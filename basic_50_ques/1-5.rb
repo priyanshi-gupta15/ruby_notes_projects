@@ -35,7 +35,3 @@ even_or_odd("121")
 
 # p- Shows raw object output
 
-
-
-
-# ================
